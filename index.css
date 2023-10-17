@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    border-collapse: collapse;
+    border: thick solid black;
+    margin: auto;
+    background-color: rgb(127, 383, 183);
+}
+td{
+    border: thin solid black;
+    padding: 20px;
+     width: 50px;
+     position: relative;
+     height: 50px;
+    
+}
+.img1{
+    rotate: 320deg;
+    width: 400px;
+    margin-right: 50px;
+}
+.three{
+    border: thin solid black;
+    background-color: red;
+    width: 51px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    bottom: -1px;
+}
+.yellow{
+    border: thin solid black;
+    background-color: yellow;
+    width: 51px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    bottom: -1px;
+
+}
+.aqua{
+    border: thin solid black;
+    background-color: rgb(2, 236, 236);
+    width: 51px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    top: -1px;
+}
+.brown{
+    border: thin solid black;
+    background-color: rgb(143, 35, 35);
+    width: 51px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    top: -1px;
+}
+.orange{
+    border: thin solid black;
+    background-color: rgb(236, 162, 23);
+    width: 13px;
+    height: 51px;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+}
+
+.purple{
+    border: thin solid black;
+    background-color: rgb(143, 1, 143);
+    width: 13px;
+    height: 51px;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+
+}
+.green{
+    border: thin solid black;
+    background-color: rgb(2, 124, 2);
+    width: 13px;
+    height: 51px;
+    position: absolute;
+    left: -1px;
+    top: -1px;
+}
+.blue{
+    
+        border: thin solid black;
+        background-color: rgb(4, 4, 192);
+        width: 13px;
+        height: 51px;
+        position: absolute;
+        left: -1px;
+        top: -1px;
+    
+}
+.img2{
+    width: 90px;
+}
+img{
+    width: 40px;
+    position: absolute;
+    top: 9px;
+    right: 6px;
+}
+.side{
+    width: 50px;
+    position: absolute;
+    top: 1px;
+    right: 6px;
+}
